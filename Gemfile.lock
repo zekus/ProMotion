@@ -13,7 +13,7 @@ GEM
     motion-redgreen (0.1.0)
     motion-require (0.2.0)
     motion-stump (0.3.1)
-    rake (10.1.1)
+    rake (13.0.1)
     webstub (1.0.1)
 
 PLATFORMS
@@ -24,5 +24,5 @@ DEPENDENCIES
   motion-redgreen (~> 0.1.0)
   motion-require
   motion-stump (~> 0.3.1)
-  rake (~> 10.1.1)
+  rake (~> 13.0.1)
   webstub (~> 1.0.1)

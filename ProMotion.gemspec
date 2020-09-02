@@ -25,6 +25,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency("webstub", "~> 1.0.1")
   gem.add_development_dependency("motion-stump", "~> 0.3.1")
   gem.add_development_dependency("motion-redgreen", "~> 0.1.0")
-  gem.add_development_dependency("rake", "~> 10.1.1")
+  gem.add_development_dependency("rake", "~> 13.0.1")
   gem.add_dependency("methadone", "~> 1.3.2")
 end
